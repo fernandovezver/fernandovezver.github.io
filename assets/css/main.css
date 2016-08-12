@@ -2185,6 +2185,10 @@
 				background-color: #81918E;
 				background-image: url("../../images/banner.jpg");
 			}
+			#main > section.five {
+				background-color: #81918E;
+				background-image: url("../../images/banner1.jpg");
+			}
 
 			#main > section.two {
 				background-color: #f5fafa;
